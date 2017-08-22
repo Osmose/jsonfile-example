@@ -1,4 +1,4 @@
-This repo contains an example bootstrap add-on for Firefox that reads data from a JSON file within the add-on using the fetch API.
+This repo contains an example bootstrap add-on for Firefox.
 
 # License
 

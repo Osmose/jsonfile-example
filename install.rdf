@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:em="http://www.mozilla.org/2004/em-rdf#">
   <Description about="urn:mozilla:install-manifest">
-    <em:id>jsonfile-example@mozilla.org</em:id>
+    <em:id>bootstrap-addon-example@mozilla.org</em:id>
     <em:type>2</em:type>
     <em:bootstrap>true</em:bootstrap>
     <em:unpack>false</em:unpack>
     <em:version>0.1.0</em:version>
-    <em:name>JSONFile Usage Example</em:name>
-    <em:description>Example of how to use JSONFile.jsm</em:description>
+    <em:name>Signed Bootstrap Mozilla Extension Example</em:name>
+    <em:description>Example of a bootstrapped addon</em:description>
     <em:multiprocessCompatible>true</em:multiprocessCompatible>
 
     <em:targetApplication>
